@@ -1,0 +1,6 @@
+section.banner{
+    min-height: 500px;
+    background-image: url("../images/bg-banner.jpg");
+    background-position: center;
+    background-size: cover;
+}
